@@ -1,0 +1,20 @@
+# IDE
+.idea/
+
+# Виртуальные окружения
+venv/
+env/
+
+# Кэш Python
+__pycache__/
+
+# Базы данных SQLite
+*.sqlite*
+
+# Прочее
+*.py[cod]
+.DS_Store
+Thumbs.db
+
+my_settings.txt
+main.py
